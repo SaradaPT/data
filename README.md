@@ -25,7 +25,7 @@
 
 <hr/>
 
-<h3 align="center">A Passionate Data Scientist & AI Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India</h3>
+<h3 align="center" style="color:#2196F3;">✨ A Passionate Data Scientist & AI Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India</h3>
 
 <br/>
 
@@ -38,9 +38,9 @@
 
  </div>
 
-<hr/>
+<hr style="border-top: 3px dashed #00b3ff;"/>
 
-<h3 align="left">⚒️Languages-Frameworks-Tools⚒️:</h3>
+<h3 align="left" style="color:#ff4081;">⚒️ Languages, Frameworks, and Tools ⚒️:</h3>
 
 <p align="left"> 
    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -62,23 +62,25 @@
    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 </p>
 
-<!--<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+Visiting!+...+🔥;"/>
+<hr style="border-top: 3px dashed #00b3ff;"/>
 
-</h1> -->
+### 🎯 **My Hobbies & Interests:**
+* Traveling 🌍
+* Singing 🎤
+* Coding 💻
+* Exploring AI/ML Research Papers 📚
 
-### My Hobbies and interests:
-* Traveling
-* Singing
-* Coding
-* Exploring AI/ML research papers
+<br>
 
-  ## 💰 You can support me if you liked my work by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/saradaprasy)
+## 💰 **Support My Work** 💰
 
-<hr/>
+If you like my work, consider supporting me:
 
-<h2 align="center">⚡ Stats ⚡</h2>
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/saradaprasy)
+
+<hr style="border-top: 3px dashed #00b3ff;"/>
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <div align=center>
 
@@ -88,7 +90,9 @@
 
 </div>
 
-### Recommended Websites for Data Scientists, AI/ML Engineers, and Gen AI Developers
+<br><br>
+
+### 🚀 **Recommended Websites for Data Scientists, AI/ML Engineers, and Gen AI Developers**
 
 - [Kaggle](https://www.kaggle.com/): Popular platform for data science competitions, datasets, and learning resources.
 - [Towards Data Science](https://towardsdatascience.com/): A Medium publication with data science articles and tutorials.
@@ -101,4 +105,6 @@
 - [DataCamp](https://www.datacamp.com/): Online platform for learning data science, machine learning, and AI.
 - [AI Alignment Forum](https://www.alignmentforum.org/): A place for discussions on AI safety and ethics, particularly around advanced AI systems.
 
-<br/><br/>
+---
+
+### 🌟 **Thank You for Visiting My Profile!** 🌟
